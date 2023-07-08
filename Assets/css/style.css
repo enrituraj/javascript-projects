@@ -51,6 +51,7 @@ img.card-img {
 h3.card-title {
     font-size: 16px;
     margin: 12px 0;
+    text-transform: capitalize;
 }
 
 .btn-group {
