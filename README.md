@@ -3,6 +3,7 @@ This repository contains a collection of 30 JavaScript projects designed specifi
 
 ## Live Preview
     1. https://enrituraj.github.io/javascript-projects/
+    2. https://javascriptsproject.netlify.app/
     
   ![This is an image](https://i.ibb.co/hW44VBG/main.jpg)
 
